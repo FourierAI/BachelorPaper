@@ -1,10 +1,8 @@
 ## HTTP协议
 
-
 ### TCP/IP
 
 ### socket编程
-
 
 [简书-关于HTTP协议，一篇就够了](https://www.jianshu.com/p/80e25cb1d81a)
 

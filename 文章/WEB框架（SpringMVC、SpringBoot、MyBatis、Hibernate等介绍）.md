@@ -47,3 +47,6 @@
 ### Hibernate
 
 [wiki](https://zh.wikipedia.org/wiki/Hibernate)
+
+[Hibernate教程-终极指南](https://www.javacodegeeks.com/2015/06/hibernate%E6%95%99%E7%A8%8B.html)
+
