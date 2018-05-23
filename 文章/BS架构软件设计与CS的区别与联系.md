@@ -269,3 +269,6 @@ C/S 程序一般是典型的中央集权的机械式处理, 交互性相对低B/
 
 7、对技术人员的要求
 C/S的功能比较专业化，对设计和开发人员的要求较高，需要专业的培训。B/S的界面比较人性化，通用化，所以不需要多高的技能。
+
+CSDN上的文字： [浅谈 C/S 和 B/S 架构](https://blog.csdn.net/tennysonsky/article/details/45062079)
+知乎上的讨论： [请问CS结构和BS结构的详细区别？](https://www.zhihu.com/question/21803672)
